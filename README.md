@@ -1,7 +1,12 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 
-<h1 align="center">Hi 👋, I'm Hilkia farrel azaria</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+!+👋;This+is+Hilkia+Farrel+Azaria....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 <h3 align="center">I am a SMK student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilkiafa&label=Profil%20View&color=00ffff&style=flat-square" alt="hilkiafa" /> </p>
