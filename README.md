@@ -22,7 +22,7 @@
 - 📫 How to reach me **hilkiafarrel14@gmail.com**
 
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=experience&company=CRED_CLUB&role=Software%20Engineering%20&location=Indonesia&fill=black">
+<img  src="https://readme-components.vercel.app/api?component=experience&role=Software%20Engineering%20&location=Indonesia&fill=black">
 </a>
 
 <h3 align="left">Connect with me:</h3>
