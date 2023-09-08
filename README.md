@@ -37,6 +37,4 @@
 
 <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 
-
-<img height="40" src="![image](https://github.com/HilkiaFA/HilkiaFA/assets/117344058/345021b5-983e-4fba-98f9-f7ee9ad94aba)
-"/> 
+<img height="40" src="https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Distant_Voyage_-_Kazuha_Idle_2.gif/revision/latest?cb=20220503190145"/> 
