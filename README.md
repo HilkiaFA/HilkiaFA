@@ -30,10 +30,4 @@
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hilkiafa&theme=dracula" alt="hilkiafa" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hilkiafa&show_icons=true&theme=dracula&locale=en" alt="hilkiafa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hilkiafa&theme=dark" alt="hilkiafa" /></p>
-
-
 <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
