@@ -1,9 +1,9 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+<br>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+!+👋;I'm+Hilkia+Farrel+Azaria....;Nice+to+meet+you!&center=true&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+!+👋;I'm+Hilkia....;Nice+to+meet+you!&center=true&size=35">
   </a>
 </h1>
 
