@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="Hilkia" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNPnwWm2yuZgudi6TJsF10dJNFhuBEfFjWFA&usqp=CAU" width="500" height="320" />
 <br>
 <br>
 <h1 align="center">
