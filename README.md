@@ -21,6 +21,10 @@
 
 - 📫 How to reach me **hilkiafarrel14@gmail.com**
 
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=experience&company=BukanDev_CLUB&role=Software%20Engineering%20&location=Indonesia&fill=black">
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jerrryythemoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jerrryythemoon" height="30" width="40" /></a>
