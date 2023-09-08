@@ -23,11 +23,11 @@
 - 👨‍💻 [https://hilkiafa.github.io/Hilkia-portofolio/?fbclid=PAAaalwUkyrfeHx8N56IpNppW-Y6c3uG4YWHltal2P-jlkRdP2sX69jnzHm-4](https://hilkiafa.github.io/Hilkia-portofolio/?fbclid=PAAaalwUkyrfeHx8N56IpNppW-Y6c3uG4YWHltal2P-jlkRdP2sX69jnzHm-4)
 
 - 📫 How to reach me **hilkiafarrel14@gmail.com**
-<center>
+
+
   <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=experience&company=CRED_CLUB&role=Software%20Engineering%20&location=Indonesia&fill=black">
 </a>
-</center>
 
 
 <h3 align="left">Connect with me:</h3>
