@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **I'm learning the C# programming language and several other frameworks**
 
-- 👨‍💻 All of my projects are available at [https://hilkiafa.github.io/Hilkia-portofolio/?fbclid=PAAaalwUkyrfeHx8N56IpNppW-Y6c3uG4YWHltal2P-jlkRdP2sX69jnzHm-4](https://hilkiafa.github.io/Hilkia-portofolio/?fbclid=PAAaalwUkyrfeHx8N56IpNppW-Y6c3uG4YWHltal2P-jlkRdP2sX69jnzHm-4)
+- 👨‍💻 [https://hilkiafa.github.io/Hilkia-portofolio/?fbclid=PAAaalwUkyrfeHx8N56IpNppW-Y6c3uG4YWHltal2P-jlkRdP2sX69jnzHm-4](https://hilkiafa.github.io/Hilkia-portofolio/?fbclid=PAAaalwUkyrfeHx8N56IpNppW-Y6c3uG4YWHltal2P-jlkRdP2sX69jnzHm-4)
 
 - 📫 How to reach me **hilkiafarrel14@gmail.com**
 
