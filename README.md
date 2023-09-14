@@ -3,11 +3,6 @@
 </center>
 <br>
 <br>
-<center>
-  <img alt="Hilkia" src="[[https://images3.alphacoders.com/132/1322308.jpeg](https://avatars.githubusercontent.com/u/117344058?s=400&u=a843b828509506f131815f3edca99ec8443cdaf2&v=4)](https://avatars.githubusercontent.com/u/117344058?v=4)" />
-</center>
-<br>
-<br>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+!+👋;I'm+Hilkia....;Nice+to+meet+you!&center=true&size=35">
