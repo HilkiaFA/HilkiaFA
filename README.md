@@ -2,9 +2,6 @@
   <img alt="Hilkia" src="https://images3.alphacoders.com/132/1322308.jpeg" />
 </center>
 <br>
-<center>
-  <img alt="Hilkia" src="https://avatars.githubusercontent.com/u/117344058?s=400&u=cf51474f313c4b7af1eb0cb7962686c0ed7e6d4a&v=4" style="border-radius: 100%;">
-</center>
 <br>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
